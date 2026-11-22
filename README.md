@@ -13,7 +13,4 @@ A clean, responsive SaaS pricing card UI component built with **HTML5** and **Ta
 - **HTML5**
 - **Tailwind CSS**
 
-## How to View
-1. Clone or download this repository:
-   ```bash
-   git clone [https://github.com/shresthasijan002/pricing-card.git](https://github.com/shresthasijan002/pricing-card.git)
+
